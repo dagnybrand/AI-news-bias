@@ -5,6 +5,12 @@ By: Dagny Brand
 
 link to data source: (https://github.com/ramybaly/Article-Bias-Prediction)
 
+**[train_on_all_inputs](train_on_all_inputs.ipynb) is the *final* project program. it contains the full and finalized project application.**
+
+[bias_data_short.json](bias_data_short.json) is the data file used in the project. it is a condensed version of the data compiled from the original source.
+
+[project_colab](project_colab.ipynb) contains initial code and programming to test classifers on embedded data
+
 [get_data_file](get_data_file) contains code that combines json files in data source into the [bias_data.json file](https://drive.google.com/file/d/1D9GWu6IR_EBCD8lmwgILnS8xjdeO5wp-/view?usp=share_link) stored in Google Drive
 
 
