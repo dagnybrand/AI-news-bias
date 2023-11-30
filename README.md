@@ -11,7 +11,7 @@ link to data source: (https://github.com/ramybaly/Article-Bias-Prediction)
 
 [project_colab](project_colab.ipynb) contains initial code and programming to test classifers on embedded data
 
-[embedding_text_data_AI_News_Project](embedding_text_data_AI_News_Project.ipynb) contains exploritory code of sentence embedding.
+[embedding_text_data_AI_News_Project](embedding_text_data_AI_News_Project.ipynb) contains exploratory code of sentence embedding.
 
 [get_data_file](get_data_file) contains code that combines json files in data source into the [bias_data.json file](https://drive.google.com/file/d/1D9GWu6IR_EBCD8lmwgILnS8xjdeO5wp-/view?usp=share_link) stored in Google Drive
 
